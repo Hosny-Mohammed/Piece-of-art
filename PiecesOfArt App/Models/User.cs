@@ -13,11 +13,12 @@ namespace PiecesOfArt_App.Models
         public int Age { get; set; }
 
         //relations
-        public virtual ICollection<Art>? PieceOfArts { get; set; }
+        [JsonIgnore]
+        public virtual ICollection<Art>? PieceOfArts { get; set; } = new List<Art>();
 
         public int loyaltyCardId { get; set; }
         [ForeignKey(nameof(loyaltyCardId))]
-        [JsonIgnore]
+        
         public LoyaltyCard? loyaltyCard { get; set; }
     }
 }

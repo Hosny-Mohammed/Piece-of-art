@@ -22,6 +22,11 @@ namespace PiecesOfArt_App.Services.UserServices
             return await _context.Categories.FirstOrDefaultAsync(x => x.Id == id);
         }
 
+        public async Task<Category> GetByName(string name)
+        {
+            return await _context.Categories.FirstOrDefaultAsync(x => x.Name.ToLower().Equals(name.ToLower()));
+        }
+
         public async Task Add(Category category)
         {
             await _context.Categories.AddAsync(category);

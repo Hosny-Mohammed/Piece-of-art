@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.csproj": {}
+    "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.csproj": {
+    "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.csproj",
         "projectName": "PiecesOfArt App",
-        "projectPath": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.csproj",
-        "packagesPath": "C:\\Users\\hosni.mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hosni.mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,6 +50,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -68,9 +68,13 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.0, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

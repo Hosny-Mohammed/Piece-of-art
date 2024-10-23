@@ -10,14 +10,16 @@ namespace PiecesOfArt_App.Data
         {
 
             modelBuilder.Entity<Art>().HasIndex(x => x.Title).IsUnique();
+            
+            // i seeded data in this way bcuz the foreign key between Arts and Users
 
             modelBuilder.Entity<User>().HasData(
-    new User { Id = 1, Name = "Alex Johnson", Email = "alex.johnson@example.com", Age = 28, loyaltyCardId = 1 },
-    new User { Id = 2, Name = "Bethany Green", Email = "bethany.green@example.com", Age = 32, loyaltyCardId = 2 },
-    new User { Id = 3, Name = "Charlie Brown", Email = "charlie.brown@example.com", Age = 24, loyaltyCardId = 1 },
-    new User { Id = 4, Name = "Diana Prince", Email = "diana.prince@example.com", Age = 30, loyaltyCardId = 3 },
-    new User { Id = 5, Name = "Ethan Hunt", Email = "ethan.hunt@example.com", Age = 35, loyaltyCardId = 2 }
-);
+                new User { Id = 1, Name = "Alex Johnson", Email = "alex.johnson@example.com", Age = 28, loyaltyCardId = 1 },
+                new User { Id = 2, Name = "Bethany Green", Email = "bethany.green@example.com", Age = 32, loyaltyCardId = 2 },
+                new User { Id = 3, Name = "Charlie Brown", Email = "charlie.brown@example.com", Age = 24, loyaltyCardId = 1 },
+                new User { Id = 4, Name = "Diana Prince", Email = "diana.prince@example.com", Age = 30, loyaltyCardId = 3 },
+                new User { Id = 5, Name = "Ethan Hunt", Email = "ethan.hunt@example.com", Age = 35, loyaltyCardId = 2 }
+            );
 
             modelBuilder.Entity<Art>().HasData(
                 new Art { Id = 1, Title = "Sunset Bliss", PublicationDate = new DateOnly(2022, 10, 5), Description = "A beautiful sunset painting.", userID = 1, categoryID = 1 },
@@ -38,7 +40,6 @@ namespace PiecesOfArt_App.Data
                 new LoyaltyCard { Id = 2, Name = "Silver Membership", Description = "Mid-tier membership with many benefits" },
                 new LoyaltyCard { Id = 3, Name = "Bronze Membership", Description = "Basic membership with standard benefits" }
             );
-
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Art> Arts { get; set; }

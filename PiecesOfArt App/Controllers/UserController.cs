@@ -1,13 +1,9 @@
-﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using PiecesOfArt_App.Data;
-using PiecesOfArt_App.DTOs;
+﻿using Microsoft.AspNetCore.Mvc;
 using PiecesOfArt_App.Models;
 using PiecesOfArt_App.Services.UserServices;
+using PiecesOfArt_App.Services.ArtServices;
+using AutoMapper;
+using PiecesOfArt_App.DTOs;
 
 namespace PiecesOfArt_App.Controllers
 {
@@ -15,74 +11,103 @@ namespace PiecesOfArt_App.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly IMapper _mapper;
         private readonly IUserService _userService;
+        private readonly IArtServices _artServices;
         private readonly ILoyaltyCardsServices _loyaltyCardsService;
-        private readonly ICategoryService _categoryService;
-        public UserController(IMapper mapper, IUserService context, ILoyaltyCardsServices loyaltyCardsService, ICategoryService categoryService)
+        private readonly IMapper _mapper;
+
+        public UserController(IUserService userService, IArtServices artServices, ILoyaltyCardsServices loyaltyCardsService, IMapper mapper)
         {
-            _mapper = mapper;
-            _userService = context;
-            _categoryService = categoryService;
+            _userService = userService;
+            _artServices = artServices;
             _loyaltyCardsService = loyaltyCardsService;
+            _mapper = mapper;
         }
 
-        //[HttpPost]
-        //public async Task<IActionResult> Add(UpdateUserRequest request)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        var MappedUser = _mapper.Map<User>(request);
-        //        await _userService.Add(MappedUser);
-        //        return Ok();
-        //    }
-        //    else
-        //        return BadRequest();
-        //}
+
+        [HttpPost]
+        public async Task<IActionResult> AddUser(UserDTO request)
+        {
+            var user = _mapper.Map<User>(request);
+
+            var loyaltyCard = await _loyaltyCardsService.GetByName(request.LoyaltyCardName);
+            if (loyaltyCard != null)
+            {
+                user.loyaltyCardId = loyaltyCard.Id;
+                user.loyaltyCard = loyaltyCard;
+            }
+
+            foreach (var artName in request.PieceOfArtsNames)
+            {
+                var art = await _artServices.GetByName(artName);
+                if (art != null)
+                {
+                    user.PieceOfArts.Add(art);
+                }
+            }
+
+            await _userService.Add(user);
+            return Ok(user);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetUserById(int id)
+        {
+            var user = await _userService.GetById(id);
+            if (user == null)
+                return NotFound();
+
+            var userDTO = _mapper.Map<UserDTO>(user);
+            return Ok(userDTO);
+        }
 
         [HttpGet]
-        public async Task<ActionResult<List<UserDTO>>> GetAll()
+        public async Task<IActionResult> GetAllUsers()
         {
             var users = await _userService.GetAllUsers();
-            var Dto = _mapper.Map<ICollection<UserDTO>>(users);
-            return Ok(Dto);
+            var userDTOs = _mapper.Map<List<UserDTO>>(users);
+            return Ok(userDTOs);
         }
 
-        //[HttpPut("{id}")]
-        //public async Task<ActionResult<User>> UpdateUser(int id, [FromBody] UpdateUserRequest request)
-        //{
-        //    var user = await _userService.GetById(id);
-        //    if (user == null)
-        //    {
-        //        return NotFound();
-        //    }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateUser(int id, UserDTO request)
+        {
+            var existingUser = await _userService.GetById(id);
+            if (existingUser == null)
+                return NotFound();
 
-        //    user.Name = request.Name;
-        //    user.Age = request.Age;
+            _mapper.Map(request, existingUser);
 
-        //    var pieceOfArt = user.PieceOfArts.FirstOrDefault();
-        //    if (pieceOfArt != null)
-        //    {
-        //        pieceOfArt.Title = request.PieceOfArtTitle;
-        //        var category = await _categoryService.GetByName(request.CategoryName);
-        //        if (category != null)
-        //        {
-        //            pieceOfArt.categoryID = category.Id;
-        //            pieceOfArt.category = category;
-        //        }
-        //    }
+            var loyaltyCard = await _loyaltyCardsService.GetByName(request.LoyaltyCardName);
+            if (loyaltyCard != null)
+            {
+                existingUser.loyaltyCardId = loyaltyCard.Id;
+                existingUser.loyaltyCard = loyaltyCard;
+            }
 
-        //    var loyaltyCard = await _loyaltyCardsService.GetByName(request.LoyaltyCardName);
-        //    if (loyaltyCard != null)
-        //    {
-        //        user.loyaltyCardId = loyaltyCard.Id;
-        //        user.loyaltyCard = loyaltyCard;
-        //    }
-        //    await _userService.Update(user);
-        //    return Ok(request);
+            existingUser.PieceOfArts.Clear();
+            foreach (var artName in request.PieceOfArtsNames)
+            {
+                var art = await _artServices.GetByName(artName);
+                if (art != null)
+                {
+                    existingUser.PieceOfArts.Add(art);
+                }
+            }
 
-        //}
-        // i need to handle a
+            await _userService.Update(existingUser);
+            return Ok(existingUser);
+        }
 
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUser(int id)
+        {
+            var user = await _userService.GetById(id);
+            if (user == null)
+                return NotFound();
+
+            await _userService.Delete(id);
+            return Ok();
+        }
     }
 }

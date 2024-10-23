@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace PiecesOfArt_App.Models
 {
@@ -10,6 +11,7 @@ namespace PiecesOfArt_App.Models
         [MaxLength(100)] public string Description { get; set; } = string.Empty;
 
         //Relations
+        [JsonIgnore]
         public virtual ICollection<Art>? Arts { get; set; }
     }
 }

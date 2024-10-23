@@ -1,86 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\piece of art\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\loyaltycards\\loyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\loyaltycards\\loyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\loyaltycards\\iloyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\loyaltycards\\iloyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\dtos\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\controllers\\loyaltycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\controllers\\loyaltycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023062044_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PiecesOfArt App\\Migrations\\20241023062044_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\dtos\\loyaltycarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\loyaltycarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\dtos\\artdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\dtos\\artdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\artservices\\artservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\artservices\\artservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\loyaltycardsservices\\loyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\loyaltycardsservices\\loyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\artservices\\iartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\artservices\\iartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\hosni.mohamed\\source\\repos\\piecesofart app\\piecesofart app\\piecesofart app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\loyaltycardsservices\\iloyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\loyaltycardsservices\\iloyaltycardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\piecesofart app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\piecesofart app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PiecesOfArt App\\Migrations\\20241023053657_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|c:\\users\\pc\\desktop\\piece of art\\piecesofart app\\migrations\\20241023062044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD37267A-9332-4F6A-AA20-4506B589654C}|PiecesOfArt App\\PiecesOfArt App.csproj|solutionrelative:piecesofart app\\migrations\\20241023062044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,56 +121,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoyaltyCardsService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\LoyaltyCards\\LoyaltyCardsService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\LoyaltyCards\\LoyaltyCardsService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\LoyaltyCards\\LoyaltyCardsService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\LoyaltyCards\\LoyaltyCardsService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:05:18.703Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoyaltyCardController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\LoyaltyCardController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Controllers\\LoyaltyCardController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\LoyaltyCardController.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Controllers\\LoyaltyCardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:52:51.111Z",
+              "WhenOpened": "2024-10-23T21:51:51.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAoAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:53:46.033Z",
+              "WhenOpened": "2024-10-23T21:52:59.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\ArtController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Controllers\\ArtController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\ArtController.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Controllers\\ArtController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:32:23.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Mapper\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "PiecesOfArt App\\Mapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Mapper\\MappingProfile.cs",
               "RelativeToolTip": "PiecesOfArt App\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:40:46.693Z",
               "EditorCaption": ""
@@ -147,120 +186,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Controllers\\UserController.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwCgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:53:17.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:46:24.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILoyaltyCardsService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\LoyaltyCards\\ILoyaltyCardsService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\LoyaltyCards\\ILoyaltyCardsService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\LoyaltyCards\\ILoyaltyCardsService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\LoyaltyCards\\ILoyaltyCardsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:05:06.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "PiecesOfArt App\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:37:59.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\DTOs\\UpdateUserRequest.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\UpdateUserRequest.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\DTOs\\UpdateUserRequest.cs",
-              "RelativeToolTip": "PiecesOfArt App\\DTOs\\UpdateUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T08:33:41.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Program.cs",
               "RelativeDocumentMoniker": "PiecesOfArt App\\Program.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Program.cs",
               "RelativeToolTip": "PiecesOfArt App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:30:48.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Art.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\Art.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\Art.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\Art.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Models\\Art.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:59:47.747Z",
+              "WhenOpened": "2024-10-23T05:53:17.385Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:20:41.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArtDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\ArtDTO.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\ArtDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\ArtDTO.cs",
+              "RelativeToolTip": "PiecesOfArt App\\DTOs\\ArtDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:32:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "PiecesOfArt App\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:46:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoyaltyCardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\LoyaltyCardDTO.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\LoyaltyCardDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\LoyaltyCardDTO.cs",
+              "RelativeToolTip": "PiecesOfArt App\\DTOs\\LoyaltyCardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:48:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "PiecesOfArt App\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:37:59.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\UserServices\\UserService.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\UserServices\\UserService.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Services\\UserServices\\UserService.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Services\\UserServices\\UserService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAuAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\Category.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:48:59.919Z",
+              "WhenOpened": "2024-10-23T05:03:13.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PiecesOfArt App\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T20:05:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoyaltyCard.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\LoyaltyCard.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\LoyaltyCard.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\LoyaltyCard.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Models\\LoyaltyCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:05:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\User.cs",
               "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\User.cs",
               "RelativeToolTip": "PiecesOfArt App\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T04:55:08.026Z",
               "EditorCaption": ""
@@ -268,75 +329,140 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\Category.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Title": "Art.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\Art.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\Art.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Models\\Art.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Models\\Art.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:03:13.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoyaltyCard.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\LoyaltyCard.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Models\\LoyaltyCard.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Models\\LoyaltyCard.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Models\\LoyaltyCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:05:33.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:20:41.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20241023062044_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:20:44.21Z",
+              "WhenOpened": "2024-10-23T04:59:47.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ArtServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\ArtServices\\ArtServices.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\ArtServices\\ArtServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\ArtServices\\ArtServices.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\ArtServices\\ArtServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:33:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\UserServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\UserServices\\UserService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\UserServices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:48:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoyaltyCardsService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\LoyaltyCardsServices\\LoyaltyCardsService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\LoyaltyCardsServices\\LoyaltyCardsService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\LoyaltyCardsServices\\LoyaltyCardsService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\LoyaltyCardsServices\\LoyaltyCardsService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:05:18.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IArtServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\ArtServices\\IArtServices.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\ArtServices\\IArtServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\ArtServices\\IArtServices.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\ArtServices\\IArtServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:32:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\appsettings.json",
               "RelativeDocumentMoniker": "PiecesOfArt App\\appsettings.json",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\appsettings.json",
               "RelativeToolTip": "PiecesOfArt App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-23T05:32:28.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\CategoryServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:52:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\CategoryServices\\CategoryService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:53:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoyaltyCardsService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\LoyaltyCardsServices\\ILoyaltyCardsService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\LoyaltyCardsServices\\ILoyaltyCardsService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\LoyaltyCardsServices\\ILoyaltyCardsService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\LoyaltyCardsServices\\ILoyaltyCardsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:05:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Services\\UserServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:46:24.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "PiecesOfArt App.http",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.http",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.http",
               "RelativeDocumentMoniker": "PiecesOfArt App\\PiecesOfArt App.http",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\PiecesOfArt App.http",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\PiecesOfArt App.http",
               "RelativeToolTip": "PiecesOfArt App\\PiecesOfArt App.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -345,16 +471,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20241023053657_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
-              "RelativeDocumentMoniker": "PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
-              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
-              "RelativeToolTip": "PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
+              "DocumentIndex": 27,
+              "Title": "20241023062044_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\piece of art\\PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
+              "RelativeToolTip": "PiecesOfArt App\\Migrations\\20241023062044_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:36:57.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T06:20:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241023053657_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
+              "ToolTip": "C:\\Users\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\hosni.mohamed\\source\\repos\\PiecesOfArt App\\PiecesOfArt App\\Migrations\\20241023053657_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:36:57.249Z"
             }
           ]
         }

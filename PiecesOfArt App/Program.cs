@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PiecesOfArt_App.Data;
+using PiecesOfArt_App.Services.ArtServices;
 using PiecesOfArt_App.Services.UserServices;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,7 +17,7 @@ builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ILoyaltyCardsServices, LoyaltyCardsService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
-
+builder.Services.AddScoped<IArtServices, ArtServices>();
 
 var app = builder.Build();
 

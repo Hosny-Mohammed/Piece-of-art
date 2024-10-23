@@ -21,7 +21,6 @@ namespace PiecesOfArt_App.Models
 
         public int categoryID { get; set; }
         [ForeignKey(nameof(categoryID))]
-        [JsonIgnore]
         public Category? category { get; set; }
     }
 }

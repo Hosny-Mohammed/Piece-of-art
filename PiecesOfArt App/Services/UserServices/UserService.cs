@@ -22,6 +22,13 @@ namespace PiecesOfArt_App.Services.UserServices
             return await _context.Users.Include(x => x.PieceOfArts).
                 ThenInclude(c => c.category).Include(y => y.loyaltyCard).FirstOrDefaultAsync(x => x.Id == id);
         }
+
+        public async Task<User> GetByName(string name)
+        {
+            return await _context.Users.FirstOrDefaultAsync(x => x.Name.ToLower().Equals(name.ToLower()));
+
+        }
+
         public async Task Add(User user)
         {
             await _context.Users.AddAsync(user);
